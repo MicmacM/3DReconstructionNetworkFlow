@@ -19,6 +19,7 @@ Then nearly the same algorithm is applied to solve the 3D reconstruction problem
 
 ![result of the reconstruction](assets/result3D.png)
 
+Note that the program only gives a 3D cloud of points. In order to get a mesh, an algorithm must be used, like generating it's $\alpha$-shape.
 ## Workspace description
 
 - The [`image_drawing.py`](Segmentation/image_drawing.py) file is a (very VERY) basic tkinter interface that allows one to select the object and background seeds used in the segmentation process
