@@ -17,7 +17,7 @@ The segmentation part works but not that well, but ther techniques solve this pr
 
 Then nearly the same algorithm is applied to solve the 3D reconstruction problem, where it worked with nearly no adjustment.
 
-![result of the reconstruction](assets/result23.png)
+![result of the reconstruction](assets/result3D.png)
 
 ## Workspace description
 
