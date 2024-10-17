@@ -12,8 +12,12 @@ First demonstrated by Ford and Fulkerson, this theorem allows one to compute a m
 ## Results
 The segmentation part works but not that well, but ther techniques solve this problem in a much better way. However it's still not bad considering the simplicity of the algorithm. 
 
+![result of the segmentation](assets/result2D.png)
+
 
 Then nearly the same algorithm is applied to solve the 3D reconstruction problem, where it worked with nearly no adjustment.
+
+![result of the reconstruction](assets/result23.png)
 
 ## Workspace description
 
